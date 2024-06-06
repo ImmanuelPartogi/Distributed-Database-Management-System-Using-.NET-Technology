@@ -1,0 +1,25 @@
+﻿@model ModelClasses.ViewModel.LoginVM
+
+<div class="container-fluid vh-100 d-flex justify-content-center align-items-center" style="background-image: url('/Images/maxresdefault.jpg'); background-size: cover; background-repeat: no-repeat;">
+    <div class="row p-4 rounded bg-light shadow-lg">
+        <!-- Menambahkan kelas shadow-lg untuk memberikan efek bayangan -->
+        <h2 class="text-center text-uppercase text-primary">Login</h2>
+        <hr class="bg-primary" />
+        <form asp-action="Login" method="post" asp-controller="Account" asp-route-returnUrl="@ViewData["returnUrl"]">
+            <div class="mb-3">
+                <input placeholder="Email" asp-for="Email" class="form-control rounded border border-primary text-secondary" />
+            </div>
+            <div class="mb-3 position-relative">
+                <input type="password" placeholder="Password" asp-for="Password" class="form-control rounded border border-primary text-secondary" id="password-field" />
+                <i class="far fa-eye-slash position-absolute top-50 end-0 translate-middle-y" id="hideShowPassword"></i>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="text-center">
+                <button class="btn btn-primary px-5 py-2" type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,111 @@
+﻿@model ModelClasses.ViewModel.RegisterVM
+
+<div class="d-flex justify-content-center align-items-center vh-100" style="background-image: url('/Images/Registered.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center;">
+    <div class="row p-5">
+        <div class="row p-4 rounded bg-light shadow-lg">
+            <h2 class="text-center text-uppercase text-primary">Registration</h2>
+            <form asp-action="Register" asp-controller="Account" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="FirstName"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="LastName"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="LastName" class="form-control" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="UserName"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="UserName" class="form-control" />
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="Email"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="Address"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="Address" class="form-control" />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="PhoneNumber"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="PhoneNumber" class="form-control" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="City"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="City" class="form-control" />
+                        <span asp-validation-for="City" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="PostalCode"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="PostalCode" class="form-control" />
+                        <span asp-validation-for="PostalCode" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="Password"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="Password" class="form-control" placeholder="ex-12PD# not more than 8 characters" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p><label asp-for="ConfirmPassword"></label></p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <input asp-for="ConfirmPassword" class="form-control" placeholder="Use the same password as above" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="p-2">
+                    <button type="submit" class="btn btn-primary w-100 px-5 py-2">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,12 @@
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\bin\Debug\net8.0\ModelClasses.deps.json
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\bin\Debug\net8.0\ModelClasses.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\bin\Debug\net8.0\ModelClasses.pdb
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\ModelClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\ModelClasses.AssemblyInfoInputs.cache
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\ModelClasses.AssemblyInfo.cs
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\ModelClasses.csproj.CoreCompileInputs.cache
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\ModelClasses.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\refint\ModelClasses.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\ModelClasses.pdb
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\ref\ModelClasses.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\ModelClasses\obj\Debug\net8.0\ModelClasses.csproj.AssemblyReference.cache

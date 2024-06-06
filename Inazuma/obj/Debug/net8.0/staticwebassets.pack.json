@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Inazuma.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Inazuma.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\264cff93-c18d-49d3-a547-32ad0ace8357_product_7.png",
+      "PackagePath": "staticwebassets\\Images\\264cff93-c18d-49d3-a547-32ad0ace8357_product_7.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\72dd2771-8b9e-4adb-8da2-40b4488b6210_product_1.png",
+      "PackagePath": "staticwebassets\\Images\\72dd2771-8b9e-4adb-8da2-40b4488b6210_product_1.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\abdd757b-6982-4f9c-8295-54333c1695f3_product_8.png",
+      "PackagePath": "staticwebassets\\Images\\abdd757b-6982-4f9c-8295-54333c1695f3_product_8.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\e2df60c1-1594-4c50-baf7-6abf81094195_product_3.png",
+      "PackagePath": "staticwebassets\\Images\\e2df60c1-1594-4c50-baf7-6abf81094195_product_3.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\product_1.png",
+      "PackagePath": "staticwebassets\\Images\\product_1.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\product_10.png",
+      "PackagePath": "staticwebassets\\Images\\product_10.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\product_2.png",
+      "PackagePath": "staticwebassets\\Images\\product_2.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\product_4.png",
+      "PackagePath": "staticwebassets\\Images\\product_4.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\product_5.png",
+      "PackagePath": "staticwebassets\\Images\\product_5.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\product_6.png",
+      "PackagePath": "staticwebassets\\Images\\product_6.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\product_9.png",
+      "PackagePath": "staticwebassets\\Images\\product_9.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\Images\\single_3.jpg",
+      "PackagePath": "staticwebassets\\Images\\single_3.jpg"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\categories.js",
+      "PackagePath": "staticwebassets\\js\\categories.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\showHidePassword.js",
+      "PackagePath": "staticwebassets\\js\\showHidePassword.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\single.js",
+      "PackagePath": "staticwebassets\\js\\single.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\js\\validateShippingInput.js",
+      "PackagePath": "staticwebassets\\js\\validateShippingInput.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\Isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\Isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\plugins\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\categories_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\categories_responsive.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\categories_styles.css",
+      "PackagePath": "staticwebassets\\styles\\categories_styles.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\contact_styles.css",
+      "PackagePath": "staticwebassets\\styles\\contact_styles.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\styles\\main_styles.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\styles\\responsive.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\single_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\single_responsive.css"
+    },
+    {
+      "Id": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\styles\\single_styles.css",
+      "PackagePath": "staticwebassets\\styles\\single_styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Inazuma.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Inazuma.props",
+      "PackagePath": "build\\Inazuma.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Inazuma.props",
+      "PackagePath": "buildMultiTargeting\\Inazuma.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Inazuma.props",
+      "PackagePath": "buildTransitive\\Inazuma.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

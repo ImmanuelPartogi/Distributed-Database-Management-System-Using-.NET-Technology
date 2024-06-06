@@ -1,0 +1,11 @@
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\InazumaDB.deps.json
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\InazumaDB.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\InazumaDB.pdb
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\InazumaDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\InazumaDB.AssemblyInfoInputs.cache
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\InazumaDB.AssemblyInfo.cs
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\InazumaDB.csproj.CoreCompileInputs.cache
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\InazumaDB.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\refint\InazumaDB.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\InazumaDB.pdb
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\ref\InazumaDB.dll

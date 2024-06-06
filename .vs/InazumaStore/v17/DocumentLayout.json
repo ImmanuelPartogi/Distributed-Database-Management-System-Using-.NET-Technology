@@ -1,0 +1,753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\migrations\\20240517094839_addstripeinfotoorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\migrations\\20240517094839_addstripeinfotoorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094820_addStripeInfoToOrderHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InazumaDB\\Migrations\\20240517094820_addStripeInfoToOrderHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094806_addStripeInfoToOrderHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InazumaDB\\Migrations\\20240517094806_addStripeInfoToOrderHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094725_addOrderHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InazumaDB\\Migrations\\20240517094725_addOrderHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\migrations\\20240424043612_adddbtodataserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\migrations\\20240424043612_adddbtodataserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\jvqoxq4t.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InazumaDB\\obj\\Debug\\net8.0\\jvqoxq4t.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\hwucjg4f.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InazumaDB\\obj\\Debug\\net8.0\\hwucjg4f.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\ddxg0w2e.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InazumaDB\\obj\\Debug\\net8.0\\ddxg0w2e.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\migrations\\20240502043340_addusercarttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\migrations\\20240502043340_addusercarttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\migrations\\20240425043625_pushchangestoaspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\migrations\\20240425043625_pushchangestoaspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\migrations\\20240425152659_addnewclasstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\migrations\\20240425152659_addnewclasstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\lo0zlf0i.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InazumaDB\\obj\\Debug\\net8.0\\lo0zlf0i.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\viewmodel\\homepagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\viewmodel\\homepagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\pimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\pimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\viewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\viewmodel\\orderdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\viewmodel\\orderdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\modelclasses\\viewmodel\\summeryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242F7F9-FE85-4AB5-A441-F9CAD75FD802}|ModelClasses\\ModelClasses.csproj|solutionrelative:modelclasses\\viewmodel\\summeryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\order\\orderdetailpreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\order\\orderdetailpreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\order\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\order\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\category\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\category\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\inazuma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\inazuma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3D9FBF9-B042-4F24-8DE4-6AABE5532A6F}|Inazuma\\Inazuma.csproj|solutionrelative:inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\databaseaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\databaseaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|e:\\a perkuliahan\\semester 4\\tugas\\pemrograman teknologi. net\\praktikum\\project\\inazumastore\\inazumadb\\migrations\\20240517094745_addorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7124417-3F9D-457C-BA39-3B6C61BD3F45}|InazumaDB\\DatabaseAccess.csproj|solutionrelative:inazumadb\\migrations\\20240517094745_addorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240517094839_addStripeInfoToOrderHeader.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094839_addStripeInfoToOrderHeader.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240517094839_addStripeInfoToOrderHeader.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094839_addStripeInfoToOrderHeader.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240517094839_addStripeInfoToOrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:48:39.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240517094820_addStripeInfoToOrderHeader.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094820_addStripeInfoToOrderHeader.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240517094820_addStripeInfoToOrderHeader.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094820_addStripeInfoToOrderHeader.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240517094820_addStripeInfoToOrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:48:21.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240517094806_addStripeInfoToOrderHeader.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094806_addStripeInfoToOrderHeader.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240517094806_addStripeInfoToOrderHeader.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094806_addStripeInfoToOrderHeader.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240517094806_addStripeInfoToOrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:48:06.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240517094745_addOrderHeader.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094745_addOrderHeader.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240517094745_addOrderHeader.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094745_addOrderHeader.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240517094745_addOrderHeader.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:47:45.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240517094725_addOrderHeader.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094725_addOrderHeader.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240517094725_addOrderHeader.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240517094725_addOrderHeader.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240517094725_addOrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:47:26.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEECAAAAAAAAAAAiwGoCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:48:17.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Inazuma\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Inazuma\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAMwM4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:01:17.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240424043612_addDBToDataServer.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240424043612_addDBToDataServer.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240424043612_addDBToDataServer.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240424043612_addDBToDataServer.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240424043612_addDBToDataServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:51:43.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InazumaDB\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:31:21.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\appsettings.json",
+              "RelativeDocumentMoniker": "Inazuma\\appsettings.json",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\appsettings.json",
+              "RelativeToolTip": "Inazuma\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T09:25:40.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "jvqoxq4t.sql",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\jvqoxq4t.sql",
+              "RelativeDocumentMoniker": "InazumaDB\\obj\\Debug\\net8.0\\jvqoxq4t.sql",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\jvqoxq4t.sql",
+              "RelativeToolTip": "InazumaDB\\obj\\Debug\\net8.0\\jvqoxq4t.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T09:20:47.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Program.cs",
+              "RelativeDocumentMoniker": "Inazuma\\Program.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Program.cs",
+              "RelativeToolTip": "Inazuma\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:55:40.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hwucjg4f.sql",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\hwucjg4f.sql",
+              "RelativeDocumentMoniker": "InazumaDB\\obj\\Debug\\net8.0\\hwucjg4f.sql",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\hwucjg4f.sql",
+              "RelativeToolTip": "InazumaDB\\obj\\Debug\\net8.0\\hwucjg4f.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T09:18:09.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ddxg0w2e.sql",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\ddxg0w2e.sql",
+              "RelativeDocumentMoniker": "InazumaDB\\obj\\Debug\\net8.0\\ddxg0w2e.sql",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\ddxg0w2e.sql",
+              "RelativeToolTip": "InazumaDB\\obj\\Debug\\net8.0\\ddxg0w2e.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T09:14:19.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240502043340_addUserCartToDb.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240502043340_addUserCartToDb.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240502043340_addUserCartToDb.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240502043340_addUserCartToDb.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240502043340_addUserCartToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:31:15.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240425152659_addNewClassToDB.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240425152659_addNewClassToDB.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240425152659_addNewClassToDB.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240425152659_addNewClassToDB.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240425152659_addNewClassToDB.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:51:22.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240425043625_PushChangesToAspNetUser.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240425043625_PushChangesToAspNetUser.cs",
+              "RelativeDocumentMoniker": "InazumaDB\\Migrations\\20240425043625_PushChangesToAspNetUser.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\Migrations\\20240425043625_PushChangesToAspNetUser.cs",
+              "RelativeToolTip": "InazumaDB\\Migrations\\20240425043625_PushChangesToAspNetUser.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:51:32.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Inazuma\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Inazuma\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAUwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:54:59.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\ApplicationUser.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ApplicationUser.cs",
+              "RelativeToolTip": "ModelClasses\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:13:02.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "lo0zlf0i.sql",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\lo0zlf0i.sql",
+              "RelativeDocumentMoniker": "InazumaDB\\obj\\Debug\\net8.0\\lo0zlf0i.sql",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\obj\\Debug\\net8.0\\lo0zlf0i.sql",
+              "RelativeToolTip": "InazumaDB\\obj\\Debug\\net8.0\\lo0zlf0i.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-17T08:21:27.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Inazuma\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Inazuma\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:58:57.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomePageVM.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\HomePageVM.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\ViewModel\\HomePageVM.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\HomePageVM.cs",
+              "RelativeToolTip": "ModelClasses\\ViewModel\\HomePageVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:11:35.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T01:11:56.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T14:08:12.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T02:11:40.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\ViewModel\\ProductVM.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\ProductVM.cs",
+              "RelativeToolTip": "ModelClasses\\ViewModel\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:23:55.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\Product.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\Product.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\Product.cs",
+              "RelativeToolTip": "ModelClasses\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:26:15.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PImages.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\PImages.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\PImages.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\PImages.cs",
+              "RelativeToolTip": "ModelClasses\\PImages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:52:56.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwEwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T01:11:12.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\ViewModel\\LoginVM.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "ModelClasses\\ViewModel\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:55:34.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAD8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T01:12:02.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailsVM.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\OrderDetailsVM.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\ViewModel\\OrderDetailsVM.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\OrderDetailsVM.cs",
+              "RelativeToolTip": "ModelClasses\\ViewModel\\OrderDetailsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:55:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\RegisterVM.cs",
+              "RelativeToolTip": "ModelClasses\\ViewModel\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:55:23.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SummeryVM.cs",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\SummeryVM.cs",
+              "RelativeDocumentMoniker": "ModelClasses\\ViewModel\\SummeryVM.cs",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\ModelClasses\\ViewModel\\SummeryVM.cs",
+              "RelativeToolTip": "ModelClasses\\ViewModel\\SummeryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:55:20.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:00:43.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Order\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Order\\OrderHistory.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Order\\OrderHistory.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Order\\OrderHistory.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwEoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T04:03:20.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Inazuma\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Inazuma\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAANEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T06:38:54.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "orderDetailPreview.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Order\\orderDetailPreview.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Order\\orderDetailPreview.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Order\\orderDetailPreview.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Order\\orderDetailPreview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:56:35.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Order\\OrderDetails.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Order\\OrderDetails.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T18:09:47.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T16:32:17.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T02:00:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Category\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Category\\Upsert.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Category\\Upsert.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Category\\Upsert.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T06:37:15.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Inazuma\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Inazuma\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T02:23:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Inazuma.csproj",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Inazuma.csproj",
+              "RelativeDocumentMoniker": "Inazuma\\Inazuma.csproj",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\Inazuma.csproj",
+              "RelativeToolTip": "Inazuma\\Inazuma.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T04:03:10.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "Inazuma\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T05:02:58.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DatabaseAccess.csproj",
+              "DocumentMoniker": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\DatabaseAccess.csproj",
+              "RelativeDocumentMoniker": "InazumaDB\\DatabaseAccess.csproj",
+              "ToolTip": "E:\\A PERKULIAHAN\\SEMESTER 4\\Tugas\\Pemrograman Teknologi. NET\\Praktikum\\Project\\InazumaStore\\InazumaDB\\DatabaseAccess.csproj",
+              "RelativeToolTip": "InazumaDB\\DatabaseAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T01:14:50.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

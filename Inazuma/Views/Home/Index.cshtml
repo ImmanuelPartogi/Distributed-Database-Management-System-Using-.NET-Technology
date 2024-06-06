@@ -1,0 +1,106 @@
+﻿@model ModelClasses.ViewModel.HomePageVM
+
+<div class="bg-light border rounded" style="margin: 20px 0px 20px 0px">
+    <div class="text-end">
+        <form asp-action="Index" method="get">
+            <div class="row m-2">
+                <div class="col-md-6 col-lg-8 col-sm-12">
+                    <h6 class="text-info text-center font-weight-bold mt-3 mb-0">Welcome to our Online Shopping Page</h6>
+                </div>
+                <div class="col-md-6 col-lg-4 col-sm-12">
+                    <div class="d-flex justify-content-end">
+                        <input asp-for="searchByName" placeholder="search by name"  class="form-control rounded-left" />
+                        <button type="submit" class="btn btn bg-primary text-white font-weight-bold">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </div><br /><br />
+                <a asp-action="Index" class="remove-link-underline">Back to Full List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-2 bg-white border-start-0 border-end-1 border-top-0 border-bottom-0 border-secondary d-none d-sm-block" style="border:solid black">
+        <p class="text-success text-dark text-center"><strong>Search by Categories</strong></p>
+        <hr />
+        @if (Model.Categories.Count() > 0)
+        {
+            <div>
+                @foreach (var item in Model.Categories)
+                {
+                    <div class="pb-2">
+                        <a asp-action="Index" asp-route-searchByCategory="@item.Name" class="text-info remove-link-underline"><i style="color: #22511f;">&nbsp;</i>@item.Name</a>
+                    </div>
+                }
+            </div>
+            <hr />
+            <div class="pb-2">
+                <p class="text-success text-dark text-center"><strong>Most Bought Items</strong></p>
+                <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active" data-bs-interval="10000">
+                            <img src="~/images/product_1.png" class="d-block w-100" alt="..." style="width: 100px; height: 200px; max-width:100%" />
+                        </div>
+                        <div class="carousel-item" data-bs-interval="10000">
+                            <img src="~/images/product_10.png" class="d-block w-100" alt="..." style="width: 100px; height: 200px; max-width:100%" />
+                        </div>
+                        <div class="carousel-item" data-bs-interval="10000">
+                            <img src="~/images/product_9.png" class="d-block w-100" alt="..." style="width: 100px; height: 200px; max-width:100%" />
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+
+            <hr />
+        }
+    </div>
+    <div class="col-10">
+        <div class="bg-light border rounded p-4">
+            @if (Model.ProductList.Count() > 0)
+            {
+                <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+                    @foreach (var item in Model.ProductList)
+                    {
+                        <div class="col mb-4">
+                            <div class="card h-100 border rounded shadow-sm">
+                                <div class="img-container">
+                                    <!-- Tambahkan JavaScript untuk menghentikan respons saat tautan diklik -->
+                                    <a asp-action="Details" asp-route-Id="@item.Id" onclick="return false;">
+                                        <img src="~/Images/@item.HomeImgUrl" class="card-img-top rounded" alt="@item.Name" style="object-fit: cover; height: 200px;">
+                                    </a>
+                                    <div class="card-body bg-light">
+                                        <h5 class="card-title text-center text-success">@item.Name</h5>
+                                        <p class="card-text text-center text-primary">$@item.Price</p>
+                                        @if (!User.IsInRole("Admin"))
+                                        {
+                                            <div class="text-center">
+                                                <a asp-action="AddToCart" asp-controller="Cart" asp-route-productId="@item.Id" class="btn btn-success"><i class="fas fa-plus"></i> Add to Cart</a>
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+
+</div>
+        

@@ -1,0 +1,17 @@
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\DatabaseAccess.csproj.AssemblyReference.cache
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\DatabaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\DatabaseAccess.AssemblyInfoInputs.cache
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\DatabaseAccess.AssemblyInfo.cs
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\DatabaseAccess.csproj.CoreCompileInputs.cache
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\DatabaseAccess.deps.json
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\DatabaseAccess.runtimeconfig.json
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\DatabaseAccess.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\DatabaseAccess.pdb
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\ModelClasses.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\bin\Debug\net8.0\ModelClasses.pdb
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\Database.3C889C45.Up2Date
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\DatabaseAccess.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\refint\DatabaseAccess.dll
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\DatabaseAccess.pdb
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\DatabaseAccess.genruntimeconfig.cache
+E:\A PERKULIAHAN\SEMESTER 4\Tugas\Pemrograman Teknologi. NET\Praktikum\Project\InazumaStore\InazumaDB\obj\Debug\net8.0\ref\DatabaseAccess.dll

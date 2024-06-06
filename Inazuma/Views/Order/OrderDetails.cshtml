@@ -1,0 +1,224 @@
+﻿    @model ModelClasses.ViewModel.OrderDetailsVM
+
+<div class="PaddingAll bg-white rounded shadow-sm" style="border: 1px solid #ccc;">
+    <form method="post">
+            <input asp-for="@Model.orderHeader.Id" hidden />
+            <div class="row">
+                <div class="col-lg-6 col-md-5 col-sm-12 p-2">
+                    <h6 class="text-info text-black text-center">Customer Details</h6>
+                <div class="p-2 bg-secondary text-white fw-bold shadowingBorder">
+                    <hr />
+                        <div asp-validation-summary="ModelOnly"></div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderHeader.Name"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderHeader.Name" class="form-control" readonly />
+                                <span asp-validation-for="orderHeader.Name" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderHeader.PhoneNumber"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderHeader.PhoneNumber" class="form-control" readonly />
+                                <span asp-validation-for="orderHeader.PhoneNumber" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                   
+                            <div class="row mb-2">
+                                <div class="col-5">
+                                    <label asp-for="orderHeader.Carrier"></label>
+                                </div>
+                                <div class="col-7">
+                                    <input asp-for="orderHeader.Carrier" class="form-control" id="carrier" onchange="EnterDataCarrier()" required style="border:1px solid red" />
+                                    <span asp-validation-for="orderHeader.Carrier" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="row mb-2">
+                                <div class="col-5">
+                                    <label asp-for="orderHeader.TrackingNumber"></label>
+                                </div>
+                                <div class="col-7">
+                                    <input asp-for="orderHeader.TrackingNumber" class="form-control" id="trackingNumber" onchange="EnterDataTracking()" required style="border:1px solid red" />
+                                    <span asp-validation-for="orderHeader.TrackingNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+                        }
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderHeader.DateOfOrder">Date Of Order</label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderHeader.DateOfOrder" class="form-control" readonly />
+                            </div>
+                        </div>
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderHeader.DeliveryStreetAddress"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderHeader.DeliveryStreetAddress" class="form-control" readonly />
+                                <span asp-validation-for="orderHeader.DeliveryStreetAddress" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderHeader.City"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderHeader.City" class="form-control" readonly />
+                                <span asp-validation-for="orderHeader.City" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderHeader.State"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderHeader.State" class="form-control" readonly />
+                                <span asp-validation-for="orderHeader.State" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderHeader.PostalCode"></label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderHeader.PostalCode" class="form-control" required readonly />
+                                <span asp-validation-for="orderHeader.PostalCode" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                    <div class="row mb-2">
+                        <div class="col-5">
+                            <label asp-for="orderHeader.PaymentStatus"></label>
+                        </div>
+                        <div class="col-7">
+                            <input asp-for="orderHeader.PaymentStatus" class="form-control" readonly />
+                        </div>
+                    </div>
+                    <div class="row mb-2">
+                        <div class="col-5">
+                            <label asp-for="orderHeader.OrderStatus"></label>
+                        </div>
+                        <div class="col-7">
+                            <input asp-for="orderHeader.OrderStatus" class="form-control" readonly />
+                        </div>
+                    </div>
+
+                        <div class="row mb-2">
+                            <div class="col-5">
+                                <label asp-for="orderHeader.DateOfShipped">Date Of Shipped</label>
+                            </div>
+                            <div class="col-7">
+                                <input asp-for="orderHeader.DateOfShipped" class="form-control" required readonly />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-7 col-sm-12 p-2">
+                    <h6 class="text-info text-black text-center">Order Details</h6>
+                <div class="p-2 bg-secondary sadowingBorder" id="list-example">
+                        <hr style="border:1px solid " />
+                        @{
+                            double totalOrderPrice = 0.0;
+                        }
+                        <div class="p-2 bg-white" style="border-radius: 8px; border:1px solid">
+                            <div class="text-center overflow-scroll bg-white" style="height: 340px">
+                                @foreach (var item in Model.userProductList)
+                                {
+                                    <div class="row text-info">
+                                        <div class="col-5">
+                                            @item.Product.Name
+                                        </div>
+                                        <div class="col-4 text-start">
+                                            <label class="font-weight-bold"><strong>@item.Count pcs * $@item.Product.Price</strong></label>
+                                        </div>
+                                        @{
+                                            double setDecimal = item.Count * item.Product.Price;
+                                            totalOrderPrice += setDecimal;
+                                        }
+                                        <div class="col-3 text-right">
+                                            <label class="font-weight-bold"><strong>$@Math.Round(setDecimal, 2)</strong></label>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                        <div class="row pb-1">
+                            <div class="col-6 text-end">
+                                <label>Total Amounts:</label>
+                            </div>
+                            <div class="col-6">
+                                <strong><input class="form-control text-info text-right font-weight-bold" value="$@Math.Round(totalOrderPrice, 2)" readonly /></strong>
+                            </div>
+                        </div>
+                    <div class="row pb-1 d-flex justify-content-end ">
+                        <div class="col-6">
+                            @if (Model.orderHeader.OrderStatus != "Completed" && User.IsInRole("Admin") && Model.orderHeader.OrderStatus != "Canceled")
+                            {
+                                <a onclick=RefundIssue("/Order/Canceled/@Model.orderHeader.Id") class="btn btn-danger form-control">Cancel Order</a>
+                            }
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        <div class="d-flex justify-content-end shadow">
+            @if (User.IsInRole("Admin"))
+            {
+                @switch (Model.orderHeader.OrderStatus)
+                {
+                    case "Pending":
+                        <button class="btn btn-primary form-control" type="submit" asp-action="InProcess" asp-controller="Order">
+                            Update status to In Process
+                        </button>
+                        break;
+                    case "Inprocess":
+                        <button class="btn btn-warning form-control border-danger" type="submit" asp-action="Shipped" asp-controller="Order" onclick="return validateShippingInput()">
+                            Update status to Shipped
+                        </button>
+                        break;
+                    case "Completed":
+                        <button class="btn btn-success form-control text-warning fw-bold border-danger" asp-action="Delivered" asp-controller="Order" disabled>
+                            Transaction has completed
+                        </button>
+                        break;
+                    case "Canceled":
+                        <button class="btn btn-primary form-control border-danger" type="button" disabled>
+                            Update status to Completed
+                        </button>
+                        break;
+                    default:
+                        <button class="btn btn-primary form-control border-danger" type="submit" asp-action="Delivered" asp-controller="Order">
+                            Update status to Completed
+                        </button>
+                        break;
+                }
+            }
+            else
+            {
+                <button class="btn btn-primary form-control shadow border-danger" disabled>
+                    Order Status: @Model.orderHeader.OrderStatus
+                </button>
+            }
+        </div>
+
+
+
+
+        </form>
+    </div>
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+        <script src="~/js/validateShippingInput.js"></script>
+    }

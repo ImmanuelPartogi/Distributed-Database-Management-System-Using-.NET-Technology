@@ -1,0 +1,118 @@
+﻿@model ModelClasses.ViewModel.ProductVM
+
+<div class="PaddingAll">
+    <h2 class="text-info">Edit Product</h2>
+    <hr class="font-weight-bold" />
+    <div class="paddingAllWhite">
+        <div class="row">
+            <div class="col-10">
+                <form asp-action="Edit" enctype="multipart/form-data" method="post">
+                    <div asp-validation-summary="ModelOnly"></div>
+                    <input asp-for="Products.Id" hidden />
+                    <div class="row form-group p-2">
+                        <div class="col-3">
+                            <label asp-for="Products.Name"></label>
+                        </div>
+                        <div class="col-9">
+                            <input asp-for="Products.Name" class="form-control" />
+                            <span asp-validation-for="Products.Name" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row form-group p-2">
+                        <div class="col-3">
+                            <label asp-for="Products.Price"></label>
+                        </div>
+                        <div class="col-9">
+                            <input asp-for="Products.Price" class="form-control" />
+                            <span asp-validation-for="Products.Price" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row p-2">
+                        <div class="col-3 form-group">
+                            <label>Category</label>
+                        </div>
+                        <div class="col-9 form-group">
+                            @Html.DropDownListFor(m => m.Products.CategoryId, Model.CategoriesList, "-Select a Category", new { @class = "form-control" })
+                            <span asp-validation-for="Products.CategoryId" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row p-2">
+                        <div class="col-3 form-group">
+                            <label asp-for="Products.Description"></label>
+                        </div>
+                        <div class="col-9 form-group">
+                            <textarea asp-for="Products.Description" class="form-control" placeholder="Max is 2000"></textarea>
+                            <span asp-validation-for="Products.Description" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row form-group p-2">
+                        <div class="col-12">
+                            <input type="file" asp-for="Images" class="form-control" multiple />
+                        </div>
+                    </div>
+                    @if (Model.Products.HomeImgUrl != "")
+                    {
+                        <div class="row p-2">
+                            <div class="col-lg-3 col-md-6 col-sm-12">
+                                <div class="card">
+                                    <a asp-action="Details" class="card-img-top">
+                                        <img src="~/Images/@Model.Products.HomeImgUrl" class="rounded img-fluid card-img-top rounded" width="150" height="100" />
+                                    </a>
+                                    <div class="card-body">
+                                        <div class="row">
+                                            <div class="col-6">
+                                                <a class="card-title btn btn-warning form-control" asp-action="ChangeAPic" asp-route-Id="">Change</a>
+                                            </div>
+                                            <div class="col-6">
+                                                <a class="btn btn-danger form-control card-title" onclick="Delete('/Product/DeleteAImg/@Model.Products.HomeImgUrl')">Remove</a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    <div class="row p-2">
+                        @foreach (var item in Model.Products.ImgUrls)
+                        {
+                            <div class="col-lg-3 col-md-4 col-sm-12 pb-2">
+                                <div class="card">
+                                    <a asp-action="Details" asp-route-Id="@item.Id" class="card-img-top">
+                                        <img src="~/Images/@item.ImageUrl" class="card-img-top rounded" width="150" height="150" />
+                                    </a>
+                                    <div class="card-body">
+                                        <div class="row">
+                                            <div class="col-6">
+                                                <a class="card-title btn btn-warning form-control" asp-action="ChangeAPic" asp-route-Id="@item.ImageUrl">Change</a>
+                                            </div>
+                                            <div class="col-6">
+                                                <a class="btn btn-danger form-control card-title" onclick="Delete('/Product/DeleteAImg/@item.ImageUrl')">Remove</a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    <div class="row form-group">
+                        <div class="col-4 offset-1">
+                            <a asp-action="Index" class="btn btn-primary form-control">Back to List</a>
+                        </div>
+                        <div class="col-6 offset-1">
+                            <button type="submit" class="btn btn-success form-control">Edit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        <script src="~/js/product.js"></script>
+    }
+}

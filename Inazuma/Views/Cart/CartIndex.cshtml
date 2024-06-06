@@ -1,0 +1,62 @@
+﻿@model ModelClasses.ViewModel.CartIndexVM
+
+@if (Model.productList.Count() > 0)
+{
+    <h4 class="text-primary text-center pb-2"><strong>Your cart Items</strong></h4>
+    <div class="row p-4 rounded bg-light">
+        <table class="table table-striped table-bordered table-dark rounded" style="border-radius: 7px; overflow:hidden;">
+            <thead class="table bg-primary text-center">
+                        <tr class="text-white">
+                    <th>Image</th>
+                    <th>ProductName</th>
+                    <th>Quantity</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody class="table-light">
+                @foreach (var item in Model.productList)
+                {
+                    <tr>
+                        <td width="30%">
+                            <div class="d-flex justify-content-center align-items-center" style="height: 100px;">
+                                <a asp-action="Details" asp-controller="Home" asp-route-Id="@item.product.Id">
+                                    <img src="~/Images/@item.product.HomeImgUrl" height="100" width="100" />
+                                </a>
+                            </div>
+                        </td>
+                        <td width="30%" class="text-center align-middle">
+                            @item.product.Name
+                        </td>
+                        <td width="35%" class="align-middle">
+                            <div class="row d-flex justify-content-center align-items-center">
+                                <div class="col-lg-auto col-md-auto col-sm-auto">
+                                    <a asp-action="AddToCart" asp-controller="Cart" asp-route-productId="@item.ProductId" asp-route-returnUrl="Yes" class="btn btn-success">
+                                        <i class="fas fa-plus"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-auto col-md-auto col-sm-auto align-middle">
+                                    <label class="font-weight-bold"><strong>(@item.Quantity * $@item.product.Price)</strong></label>
+                                </div>
+                                <div class="col-lg-auto col-md-auto col-sm-auto">
+                                    <a asp-action="MinusAnItem" asp-route-productId="@item.ProductId" class="btn btn-warning"><i class="fas fa-minus"></i></a>
+                                </div>
+                            </div>
+                        </td>
+                        <td width="5%" class="text-center align-middle">
+                            <a asp-action="DeleteAnItem" asp-route-productId="@item.ProductId" class="btn btn-danger"><i class="fas fa-trash"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+
+        </table>
+        <div class="text-end">
+            <a asp-action="orderDetailPreview" asp-controller="Order" asp-route-id="@Model.productList.FirstOrDefault().userId" class="btn btn-primary">Order Requesting</a>
+        </div>
+    </div>
+}
+else
+{
+    <h2 class="text-warning font-weight-bold">No items in the cart, please add some.</h2>
+}

@@ -1,0 +1,210 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+.PaddingAll{
+  padding: 30px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+  border: 2px solid white;
+  border-radius: 20px;
+  background-color: whitesmoke;
+}
+
+.PaddingAllWhite{
+  padding: 40px 20px 20px 20px;
+  margin: 20px 10px 10px 10px;
+  border: 2px solid white;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.borderWithColorProd {
+    padding: 10px 0px 0px 0px;
+    margin: 20px 0px 0px 0px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.borderWithColor {
+    padding: 10px 0px 0px 0px;
+    margin: 20px 0px 0px 0px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+.password-section{
+    position: relative;
+    display: inline-block;
+}
+
+.password-section .fa-eye{
+    position: absolute;
+    top: 40%;
+    right: 20px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.password-section .fa-eye-slash{
+    position: absolute;
+    top: 40%;
+    right: 20px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+.form-control {
+    border-radius: 0 !important;
+    color: black !important;
+}
+
+.btn.bg-primary {
+    border-radius: 0 0.25rem 0.25rem 0 !important;
+}
+
+.password-section i {
+    transition: color 0.3s ease;
+}
+
+    .password-section i:hover {
+        color: #17a2b8;
+    }
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+    .btn-success:hover {
+        background-color: #218838;
+        border-color: #1e7e34;
+    }
+
+/* Styling for the categories sidebar */
+.border-start-0 {
+    border-left: 0 !important;
+}
+
+.border-end-1 {
+    border-right: 1px solid #ced4da !important;
+}
+
+.border-top-0 {
+    border-top: 0 !important;
+}
+
+.border-bottom-0 {
+    border-bottom: 0 !important;
+}
+
+/* Styling for the most bought items carousel */
+#carouselExampleDark {
+    margin-top: 10px;
+}
+
+/* Styling for the product cards */
+.single-item {
+    transition: transform 0.2s ease-in-out;
+}
+
+    .single-item:hover {
+        transform: translateY(-5px);
+    }
+
+.store-item-icon {
+    background-color: rgba(0, 123, 255, 0.75);
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+}
+
+
+
+/* Navbar Styling */
+.navbar {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1); /* Garis bawah */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+}
+
+.navbar-brand {
+    padding: 10px 15px; /* Padding pada merek navbar */
+}
+
+.navbar-nav {
+    margin-right: auto; /* Menggeser navbar-nav ke kanan */
+}
+
+.navbar-collapse {
+    justify-content: flex-end; /* Menyusun konten navbar-collapse ke kanan */
+}
+
+.navbar-text {
+    margin-left: auto; /* Menggeser navbar-text ke kanan */
+}
+
+/* Teks dan Link Styling */
+.navbar-brand,
+.nav-link {
+    color: #000000 !important; /* Warna teks dan tautan hitam */
+}
+
+    /* Efek Hover */
+    .nav-link:hover {
+        color: #777777 !important; /* Warna teks hover abu-abu */
+    }
+
+    /* Efek Aktif */
+    .nav-link.active {
+        font-weight: bold; /* Ketebalan teks aktif */
+        color: #000000 !important; /* Warna teks aktif hitam */
+    }
+
+/* Teks yang Ditebalkan */
+.navbar-text strong {
+    font-weight: bold; /* Ketebalan teks tebal */
+    color: yellow; /* Warna teks tebal */
+    box-shadow: 0 2px 4px 0 red, 0 6px 20px 0 rgba(0, 0, 0, 0.19); /* Bayangan teks tebal */
+}
+
+/* Ikon Keranjang Belanja */
+.navbar-text .fa-shopping-cart {
+    color: darkblue; /* Warna ikon keranjang belanja */
+}
+
+.text-primary {
+    color: black !important; /* Ubah warna teks menjadi hitam */
+}
+
+.remove-link-underline {
+    text-decoration: none;
+}
